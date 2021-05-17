@@ -1,0 +1,17 @@
+.Container_404 {
+  height: 100vh;
+  background: url('../../images/stars.svg'), #1B1B25;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: right;
+}
+
+.E404 {
+  height: 300px;
+}
+
+.E404-Container {
+  margin-right: 5rem;
+}
